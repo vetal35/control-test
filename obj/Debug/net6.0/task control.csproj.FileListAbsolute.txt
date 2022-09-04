@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.AssemblyInfo.cs
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\task control\bin\Debug\net6.0\task control.exe
+C:\Users\Home\Desktop\task control\bin\Debug\net6.0\task control.deps.json
+C:\Users\Home\Desktop\task control\bin\Debug\net6.0\task control.runtimeconfig.json
+C:\Users\Home\Desktop\task control\bin\Debug\net6.0\task control.dll
+C:\Users\Home\Desktop\task control\bin\Debug\net6.0\task control.pdb
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.dll
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\refint\task control.dll
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.pdb
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\task control.genruntimeconfig.cache
+C:\Users\Home\Desktop\task control\obj\Debug\net6.0\ref\task control.dll
